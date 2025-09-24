@@ -75,6 +75,7 @@ pip install -r requirements.txt
 - **Advanced Model:** TF-IDF + VADER sentiment features + Tuned LinearSVC.
 - **Hyperparameter Tuning:** GridSearchCV for optimal n-gram range, sublinear TF, and SVC parameters.
 
+
 ### Performance (Dev Set)
 
 - ✅ **Final Model:** TF-IDF + VADER + Tuned LinearSVC
@@ -82,6 +83,7 @@ pip install -r requirements.txt
 - ✅ **Macro F1:** 0.8693
 - ✅ **Key Strength:** Robust handling of nuanced, informal, and emoji-rich text
 - ✅ **Random Seed:** 42 ensures reproducibility
+
 
 ### Quick Error Analysis (3 Examples)
 
@@ -106,12 +108,12 @@ pip install -r requirements.txt
 ```bash
 python -m venv .venv
 ```
-# Linux/macOS
+#### Linux/macOS
 
 ```bash
 source .venv/bin/activate 
 ```
-# Windows
+#### Windows
 
 ```bash
 .venv\Scripts\activate      
@@ -122,24 +124,24 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Ensure NLTK resources are downloaded automatically during runtime (handled in scripts).
+#### 3. Ensure NLTK resources are downloaded automatically during runtime (handled in scripts).
 
 ## Running the Project
 
-### Generate RAG Answers
+#### Generate RAG Answers
 
 ```bash
 python src/rag_answer.py  
 ```
 
-# Output saved to: submissions/rag_answers.json
+#### Output saved to: submissions/rag_answers.json
 
-### Generate Sentiment Predictions
+#### Generate Sentiment Predictions
 ```bash
 python src/train.py
 ```
 
-# Output saved to: submissions/sentiment_test_predictions.csv
+#### Output saved to: submissions/sentiment_test_predictions.csv
 
 ## Assumptions & Notes
 
@@ -148,7 +150,7 @@ python src/train.py
 - RAG system does not use external online models; it is purely extractive and lightweight.
 - Errors in sentiment classification are primarily due to ambiguous or sarcastic text, as detailed in `MODEL_CARD.md`.
 
-## Outputs
+### Outputs
 
 - `submissions/rag_answers.json` – Dictionary mapping question IDs to answers.  
 - `submissions/sentiment_test_predictions.csv` – Predictions in `[text, label]` format.
