@@ -1,4 +1,5 @@
-﻿﻿# RAG Mini-System: Overview
+# RAG Mini-System: Overview
+
 
 This report describes a **lightweight Retrieval-Augmented Generation (RAG) pipeline** built to produce short, factual answers from a small document corpus.
 
