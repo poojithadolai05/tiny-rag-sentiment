@@ -1,0 +1,342 @@
+{
+  "q0": [
+    {
+      "chunk_id": 0,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc is a symbolic math library for polynomials."
+    },
+    {
+      "chunk_id": 3,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops."
+    },
+    {
+      "chunk_id": 2,
+      "doc_id": "auroracalc",
+      "text_snippet": "For large degrees, AuroraCalc switches to FFT-based multiplication."
+    }
+  ],
+  "q1": [
+    {
+      "chunk_id": 4,
+      "doc_id": "auroracalc",
+      "text_snippet": "It can factor polynomials over the integers and rationals."
+    },
+    {
+      "chunk_id": 0,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc is a symbolic math library for polynomials."
+    },
+    {
+      "chunk_id": 3,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops."
+    }
+  ],
+  "q2": [
+    {
+      "chunk_id": 3,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops."
+    },
+    {
+      "chunk_id": 0,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc is a symbolic math library for polynomials."
+    },
+    {
+      "chunk_id": 2,
+      "doc_id": "auroracalc",
+      "text_snippet": "For large degrees, AuroraCalc switches to FFT-based multiplication."
+    }
+  ],
+  "q3": [
+    {
+      "chunk_id": 2,
+      "doc_id": "auroracalc",
+      "text_snippet": "For large degrees, AuroraCalc switches to FFT-based multiplication."
+    },
+    {
+      "chunk_id": 3,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops."
+    },
+    {
+      "chunk_id": 0,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc is a symbolic math library for polynomials."
+    }
+  ],
+  "q4": [
+    {
+      "chunk_id": 1,
+      "doc_id": "auroracalc",
+      "text_snippet": "It supports exporting expressions to LaTeX."
+    },
+    {
+      "chunk_id": 0,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc is a symbolic math library for polynomials."
+    },
+    {
+      "chunk_id": 2,
+      "doc_id": "auroracalc",
+      "text_snippet": "For large degrees, AuroraCalc switches to FFT-based multiplication."
+    }
+  ],
+  "q5": [
+    {
+      "chunk_id": 9,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB is a lightweight document store built for edge devices."
+    },
+    {
+      "chunk_id": 8,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB uses a CRDT-based replication protocol for offline-first apps."
+    },
+    {
+      "chunk_id": 7,
+      "doc_id": "nebuladb",
+      "text_snippet": "The default port for NebulaDB is 7342."
+    }
+  ],
+  "q6": [
+    {
+      "chunk_id": 5,
+      "doc_id": "nebuladb",
+      "text_snippet": "It supports JSON documents with automatic schema inference."
+    },
+    {
+      "chunk_id": 9,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB is a lightweight document store built for edge devices."
+    },
+    {
+      "chunk_id": 8,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB uses a CRDT-based replication protocol for offline-first apps."
+    }
+  ],
+  "q7": [
+    {
+      "chunk_id": 8,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB uses a CRDT-based replication protocol for offline-first apps."
+    },
+    {
+      "chunk_id": 9,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB is a lightweight document store built for edge devices."
+    },
+    {
+      "chunk_id": 7,
+      "doc_id": "nebuladb",
+      "text_snippet": "The default port for NebulaDB is 7342."
+    }
+  ],
+  "q8": [
+    {
+      "chunk_id": 7,
+      "doc_id": "nebuladb",
+      "text_snippet": "The default port for NebulaDB is 7342."
+    },
+    {
+      "chunk_id": 9,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB is a lightweight document store built for edge devices."
+    },
+    {
+      "chunk_id": 8,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB uses a CRDT-based replication protocol for offline-first apps."
+    }
+  ],
+  "q9": [
+    {
+      "chunk_id": 10,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB provides role-based access control with three roles: reader, writer, admin."
+    },
+    {
+      "chunk_id": 7,
+      "doc_id": "nebuladb",
+      "text_snippet": "The default port for NebulaDB is 7342."
+    },
+    {
+      "chunk_id": 9,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB is a lightweight document store built for edge devices."
+    }
+  ],
+  "q10": [
+    {
+      "chunk_id": 11,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP is a multilingual text processing suite."
+    },
+    {
+      "chunk_id": 13,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP has a rule-based fallback for rare tokens."
+    },
+    {
+      "chunk_id": 3,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops."
+    }
+  ],
+  "q11": [
+    {
+      "chunk_id": 15,
+      "doc_id": "atlasnlp",
+      "text_snippet": "It provides sentence splitting, NER, and lemmatization for 50+ languages."
+    },
+    {
+      "chunk_id": 11,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP is a multilingual text processing suite."
+    },
+    {
+      "chunk_id": 13,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP has a rule-based fallback for rare tokens."
+    }
+  ],
+  "q12": [
+    {
+      "chunk_id": 12,
+      "doc_id": "atlasnlp",
+      "text_snippet": "Models are packaged in ONNX format for portability."
+    },
+    {
+      "chunk_id": 21,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision models are quantized to INT8 for performance."
+    },
+    {
+      "chunk_id": 14,
+      "doc_id": "atlasnlp",
+      "text_snippet": "Dictionaries are configured in `atlas.yml`."
+    }
+  ],
+  "q13": [
+    {
+      "chunk_id": 13,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP has a rule-based fallback for rare tokens."
+    },
+    {
+      "chunk_id": 11,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP is a multilingual text processing suite."
+    },
+    {
+      "chunk_id": 3,
+      "doc_id": "auroracalc",
+      "text_snippet": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops."
+    }
+  ],
+  "q14": [
+    {
+      "chunk_id": 11,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP is a multilingual text processing suite."
+    },
+    {
+      "chunk_id": 13,
+      "doc_id": "atlasnlp",
+      "text_snippet": "AtlasNLP has a rule-based fallback for rare tokens."
+    },
+    {
+      "chunk_id": 14,
+      "doc_id": "atlasnlp",
+      "text_snippet": "Dictionaries are configured in `atlas.yml`."
+    }
+  ],
+  "q15": [
+    {
+      "chunk_id": 17,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision is a tiny vision model package for edge cameras."
+    },
+    {
+      "chunk_id": 21,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision models are quantized to INT8 for performance."
+    },
+    {
+      "chunk_id": 9,
+      "doc_id": "nebuladb",
+      "text_snippet": "NebulaDB is a lightweight document store built for edge devices."
+    }
+  ],
+  "q16": [
+    {
+      "chunk_id": 19,
+      "doc_id": "lyravision",
+      "text_snippet": "It provides on-device object detection for five classes by default."
+    },
+    {
+      "chunk_id": 17,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision is a tiny vision model package for edge cameras."
+    },
+    {
+      "chunk_id": 21,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision models are quantized to INT8 for performance."
+    }
+  ],
+  "q17": [
+    {
+      "chunk_id": 21,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision models are quantized to INT8 for performance."
+    },
+    {
+      "chunk_id": 12,
+      "doc_id": "atlasnlp",
+      "text_snippet": "Models are packaged in ONNX format for portability."
+    },
+    {
+      "chunk_id": 16,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision can export detections in COCO JSON format."
+    }
+  ],
+  "q18": [
+    {
+      "chunk_id": 18,
+      "doc_id": "lyravision",
+      "text_snippet": "The pipeline includes frame differencing to reduce false positives."
+    },
+    {
+      "chunk_id": 17,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision is a tiny vision model package for edge cameras."
+    },
+    {
+      "chunk_id": 21,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision models are quantized to INT8 for performance."
+    }
+  ],
+  "q19": [
+    {
+      "chunk_id": 16,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision can export detections in COCO JSON format."
+    },
+    {
+      "chunk_id": 17,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision is a tiny vision model package for edge cameras."
+    },
+    {
+      "chunk_id": 21,
+      "doc_id": "lyravision",
+      "text_snippet": "LyraVision models are quantized to INT8 for performance."
+    }
+  ]
+}
