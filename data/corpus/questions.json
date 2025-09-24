@@ -1,0 +1,215 @@
+[
+  {
+    "id": "q0",
+    "question": "State a key feature of AuroraCalc.",
+    "answers": [
+      "auroracalc",
+      "symbolic",
+      "math",
+      "library",
+      "polynomials"
+    ]
+  },
+  {
+    "id": "q1",
+    "question": "State a key feature of AuroraCalc.",
+    "answers": [
+      "factor",
+      "polynomials",
+      "over",
+      "integers",
+      "rationals"
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "State a key feature of AuroraCalc.",
+    "answers": [
+      "auroracalc",
+      "exposes",
+      "python",
+      "called",
+      "aurora.poly",
+      "polynomial"
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "State a key feature of AuroraCalc.",
+    "answers": [
+      "large",
+      "degrees",
+      "auroracalc",
+      "switches",
+      "fft-based",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "Which library exports expressions to LaTeX?",
+    "answers": [
+      "AuroraCalc",
+      "auroracalc"
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "State a key feature of NebulaDB.",
+    "answers": [
+      "nebuladb",
+      "lightweight",
+      "document",
+      "store",
+      "built",
+      "edge"
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "State a key feature of NebulaDB.",
+    "answers": [
+      "supports",
+      "json",
+      "documents",
+      "with",
+      "automatic",
+      "schema"
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "State a key feature of NebulaDB.",
+    "answers": [
+      "nebuladb",
+      "uses",
+      "crdt-based",
+      "replication",
+      "protocol",
+      "offline-first"
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "What is the default port for NebulaDB?",
+    "answers": [
+      "7342",
+      "port 7342"
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "Name one role available in NebulaDB RBAC.",
+    "answers": [
+      "reader",
+      "writer",
+      "admin"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "State a key feature of AtlasNLP.",
+    "answers": [
+      "atlasnlp",
+      "multilingual",
+      "text",
+      "processing",
+      "suite"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "State a key feature of AtlasNLP.",
+    "answers": [
+      "provides",
+      "sentence",
+      "splitting",
+      "lemmatization",
+      "languages"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "In what format are AtlasNLP models packaged for portability?",
+    "answers": [
+      "ONNX",
+      "onnx"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "State a key feature of AtlasNLP.",
+    "answers": [
+      "atlasnlp",
+      "rule-based",
+      "fallback",
+      "rare",
+      "tokens"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "State a key feature of AtlasNLP.",
+    "answers": [
+      "dictionaries",
+      "configured",
+      "atlas.yml"
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "lyravision",
+      "tiny",
+      "vision",
+      "model",
+      "package",
+      "edge"
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "provides",
+      "on-device",
+      "object",
+      "detection",
+      "five",
+      "classes"
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "To what precision are the models quantized in LyraVision?",
+    "answers": [
+      "INT8",
+      "int8"
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "pipeline",
+      "includes",
+      "frame",
+      "differencing",
+      "reduce",
+      "false"
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "State a key feature of LyraVision.",
+    "answers": [
+      "lyravision",
+      "export",
+      "detections",
+      "coco",
+      "json",
+      "format"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "candidate_id": "n200254@rguktn.ac.in",
+  "deliverables": {
+    "sentiment_predictions_csv": "submissions/sentiment_test_predictions.csv",
+    "rag_answers_json": "submissions/rag_answers.json"
+  },
+  "variety_profile": {
+    "sentiment": {
+      "n_examples": 320,
+      "typos": 0.07,
+      "emoji": 0.1,
+      "codeswitch": 0.08
+    },
+    "rag": {
+      "topics": 4,
+      "alias_prob": 0.35,
+      "paraphrase_lite_prob": 0.35,
+      "distractors_per_topic": [
+        1,
+        4
+      ]
+    }
+  },
+  "notes": "Do NOT modify files under data/. You may use any prompting or model approach."
+}

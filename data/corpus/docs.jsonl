@@ -1,0 +1,26 @@
+{"id": "d0", "title": "AuroraCalc", "text": "AuroraCalc is a symbolic math library for polynomials. It supports exporting expressions to LaTeX. For large degrees, AuroraCalc switches to FFT-based multiplication."}
+{"id": "d1", "title": "AuroraCalc", "text": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops. It can factor polynomials over the integers and rationals."}
+{"id": "d2", "title": "AuroraCalc", "text": "Users on forums discussed AuroraCalc tutorials and workshop schedules."}
+{"id": "d3", "title": "AuroraCalc", "text": "AuroraCalc community survey results will be published next quarter."}
+{"id": "d4", "title": "AuroraCalc", "text": "AuroraCalc community survey results will be published next quarter."}
+{"id": "d5", "title": "AuroraCalc", "text": "Users on forums discussed AuroraCalc tutorials and workshop schedules."}
+{"id": "d6", "title": "NebulaDB", "text": "It supports JSON documents with automatic schema inference. Defaults are sensible for most users."}
+{"id": "d7", "title": "NebulaDB", "text": "The default port for NebulaDB is 7342. NebulaDB uses a CRDT-based replication protocol for offline-first apps."}
+{"id": "d8", "title": "NebulaDB", "text": "NebulaDB is a lightweight document store built for edge devices."}
+{"id": "d9", "title": "NebulaDB", "text": "NebulaDB provides role-based access control with three roles: reader, writer, admin."}
+{"id": "d10", "title": "NebulaDB", "text": "Users on forums discussed NebulaDB tutorials and workshop schedules."}
+{"id": "d11", "title": "NebulaDB", "text": "Users on forums discussed NebulaDB tutorials and workshop schedules."}
+{"id": "d12", "title": "AtlasNLP", "text": "AtlasNLP is a multilingual text processing suite."}
+{"id": "d13", "title": "AtlasNLP", "text": "Models are packaged in ONNX format for portability. AtlasNLP has a rule-based fallback for rare tokens. Dictionaries are configured in `atlas.yml`."}
+{"id": "d14", "title": "Atlas NLP", "text": "It provides sentence splitting, NER, and lemmatization for 50+ languages."}
+{"id": "d15", "title": "AtlasNLP", "text": "AtlasNLP community survey results will be published next quarter."}
+{"id": "d16", "title": "ANLP", "text": "ANLP community survey results will be published next quarter."}
+{"id": "d17", "title": "Atlas NLP", "text": "Atlas NLP community survey results will be published next quarter."}
+{"id": "d18", "title": "AtlasNLP", "text": "AtlasNLP community survey results will be published next quarter."}
+{"id": "d19", "title": "LyraVision", "text": "LyraVision can export detections in COCO JSON format."}
+{"id": "d20", "title": "LyraVision", "text": "LyraVision is a tiny vision model package for edge cameras. The pipeline includes frame differencing to reduce false positives."}
+{"id": "d21", "title": "LyraVision", "text": "It provides on-device object detection for five classes by default. It integrates with CI/CD tools."}
+{"id": "d22", "title": "LyraVision", "text": "LyraVision models are quantized to INT8 for performance."}
+{"id": "d23", "title": "LyraVision", "text": "LyraVision release notes mention minor UI tweaks and logging improvements."}
+{"id": "d24", "title": "LyraVision", "text": "LyraVision release notes mention minor UI tweaks and logging improvements."}
+{"id": "d25", "title": "LyraVision", "text": "LyraVision community survey results will be published next quarter."}

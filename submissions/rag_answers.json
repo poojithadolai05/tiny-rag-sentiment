@@ -1,0 +1,22 @@
+{
+  "q0": "AuroraCalc is a symbolic math library for polynomials.",
+  "q1": "It can factor polynomials over the integers and rationals.",
+  "q2": "AuroraCalc exposes a Python API called `aurora.poly` for polynomial ops.",
+  "q3": "For large degrees, AuroraCalc switches to FFT-based multiplication.",
+  "q4": "It supports exporting expressions to LaTeX.",
+  "q5": "NebulaDB is a lightweight document store built for edge devices.",
+  "q6": "It supports JSON documents with automatic schema inference.",
+  "q7": "NebulaDB uses a CRDT-based replication protocol for offline-first apps.",
+  "q8": "The default port for NebulaDB is 7342.",
+  "q9": "NebulaDB provides role-based access control with three roles: reader, writer, admin.",
+  "q10": "AtlasNLP is a multilingual text processing suite.",
+  "q11": "It provides sentence splitting, NER, and lemmatization for 50+ languages.",
+  "q12": "Models are packaged in ONNX format for portability.",
+  "q13": "AtlasNLP has a rule-based fallback for rare tokens.",
+  "q14": "Dictionaries are configured in `atlas.yml`.",
+  "q15": "LyraVision is a tiny vision model package for edge cameras.",
+  "q16": "It provides on-device object detection for five classes by default.",
+  "q17": "LyraVision models are quantized to INT8 for performance.",
+  "q18": "The pipeline includes frame differencing to reduce false positives.",
+  "q19": "LyraVision can export detections in COCO JSON format."
+}
